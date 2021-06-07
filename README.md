@@ -8,7 +8,7 @@ pip install parse_spmei
 
 Использование в коде:
 ```python
-form spmei import *
+from parse_spmei import *
 ```
 
 Это нужно для импорта всех констант и всех функций.
